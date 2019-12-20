@@ -5,6 +5,6 @@ Can be used as system hosts file or as a list of content to block in uBlock Orig
 
 Created by:
 ```
-$ curl -q https://www.konspiratori.sk/assets/downloads/zoznam.txt | cut -d',' -f1 | sed 's/^/0.0.0.0 /'
+./create_list.sh
 ```
 
