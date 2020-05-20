@@ -1,10 +1,10 @@
 #fakenews-cz-sk
 0.0.0.0 vigilantcitizen.com
 0.0.0.0 www.vigilantcitizen.com
-0.0.0.0 zvedavec.org
-0.0.0.0 www.zvedavec.org
 0.0.0.0 protiprudu.org
 0.0.0.0 www.protiprudu.org
+0.0.0.0 biblik.sk
+0.0.0.0 www.biblik.sk
 0.0.0.0 orgo-net.blogspot.sk
 0.0.0.0 www.orgo-net.blogspot.sk
 0.0.0.0 aeronet.cz
@@ -13,6 +13,8 @@
 0.0.0.0 www.conspi.cz
 0.0.0.0 nwoo.org
 0.0.0.0 www.nwoo.org
+0.0.0.0 arfa.cz
+0.0.0.0 www.arfa.cz
 0.0.0.0 exopolitika.cz
 0.0.0.0 www.exopolitika.cz
 0.0.0.0 badatel.net
@@ -47,6 +49,8 @@
 0.0.0.0 www.veksvetla.cz
 0.0.0.0 sho.sk
 0.0.0.0 www.sho.sk
+0.0.0.0 tadesco.org
+0.0.0.0 www.tadesco.org
 0.0.0.0 nadhlad.com
 0.0.0.0 www.nadhlad.com
 0.0.0.0 pravdive.eu
@@ -73,6 +77,8 @@
 0.0.0.0 www.rozhladna.org
 0.0.0.0 yournewswire.com
 0.0.0.0 www.yournewswire.com
+0.0.0.0 pokec24.cz
+0.0.0.0 www.pokec24.cz
 0.0.0.0 obcianskytribunal.sk
 0.0.0.0 www.obcianskytribunal.sk
 0.0.0.0 idemvolit.sk
@@ -95,6 +101,10 @@
 0.0.0.0 www.tartaria.sk
 0.0.0.0 energieupramene.blogspot.sk
 0.0.0.0 www.energieupramene.blogspot.sk
+0.0.0.0 planetajednoduchost.sk
+0.0.0.0 www.planetajednoduchost.sk
+0.0.0.0 petrabostlova.wordpress.com
+0.0.0.0 www.petrabostlova.wordpress.com
 0.0.0.0 magazin1.sk
 0.0.0.0 www.magazin1.sk
 0.0.0.0 ac24.cz
@@ -105,6 +115,12 @@
 0.0.0.0 www.isstras.eu
 0.0.0.0 infokuryr.cz
 0.0.0.0 www.infokuryr.cz
+0.0.0.0 cz24.news
+0.0.0.0 www.cz24.news
+0.0.0.0 voxpopuliblog.cz
+0.0.0.0 www.voxpopuliblog.cz
+0.0.0.0 prehladsprav.sk
+0.0.0.0 www.prehladsprav.sk
 0.0.0.0 picuscapital.sk
 0.0.0.0 www.picuscapital.sk
 0.0.0.0 suenee.cz
@@ -127,6 +143,10 @@
 0.0.0.0 www.freedomeurope.eu
 0.0.0.0 lifenews.sk
 0.0.0.0 www.lifenews.sk
+0.0.0.0 otevrisvoumysl.cz
+0.0.0.0 www.otevrisvoumysl.cz
+0.0.0.0 naseveru.org
+0.0.0.0 www.naseveru.org
 0.0.0.0 eurabia.cz
 0.0.0.0 www.eurabia.cz
 0.0.0.0 euportal.cz
@@ -165,10 +185,16 @@
 0.0.0.0 www.casopis-sifra.cz
 0.0.0.0 svetkolemnas.info
 0.0.0.0 www.svetkolemnas.info
+0.0.0.0 vipnoviny.cz
+0.0.0.0 www.vipnoviny.cz
+0.0.0.0 ceskavec.com
+0.0.0.0 www.ceskavec.com
 0.0.0.0 freepub.cz
 0.0.0.0 www.freepub.cz
 0.0.0.0 dt24.cz
 0.0.0.0 www.dt24.cz
+0.0.0.0 desitka.org
+0.0.0.0 www.desitka.org
 0.0.0.0 radyzdravie.sk
 0.0.0.0 www.radyzdravie.sk
 0.0.0.0 skrytapravda.cz
@@ -185,6 +211,10 @@
 0.0.0.0 www.stopislam.eu
 0.0.0.0 nazorobcana.sk
 0.0.0.0 www.nazorobcana.sk
+0.0.0.0 badatelia.com
+0.0.0.0 www.badatelia.com
+0.0.0.0 zvedavec.org
+0.0.0.0 www.zvedavec.org
 0.0.0.0 cz.sputniknews.com
 0.0.0.0 www.cz.sputniknews.com
 0.0.0.0 southfront.org
@@ -199,6 +229,8 @@
 0.0.0.0 www.wertyzreport.cz
 0.0.0.0 e-republika.cz
 0.0.0.0 www.e-republika.cz
+0.0.0.0 cbreurope.sk
+0.0.0.0 www.cbreurope.sk
 0.0.0.0 cestacloveka.sk
 0.0.0.0 www.cestacloveka.sk
 0.0.0.0 mcaris.net
@@ -225,6 +257,8 @@
 0.0.0.0 www.radyprezdravie.sk
 0.0.0.0 radyprezeny.sk
 0.0.0.0 www.radyprezeny.sk
+0.0.0.0 eurorespekt.sk
+0.0.0.0 www.eurorespekt.sk
 0.0.0.0 mocvedomi.cz
 0.0.0.0 www.mocvedomi.cz
 0.0.0.0 datel.sk
@@ -239,6 +273,10 @@
 0.0.0.0 www.domacaliecba.sk
 0.0.0.0 themindunleashed.com
 0.0.0.0 www.themindunleashed.com
+0.0.0.0 aktuality24.sk
+0.0.0.0 www.aktuality24.sk
+0.0.0.0 legalizuj.to
+0.0.0.0 www.legalizuj.to
 0.0.0.0 narodninoviny.cz
 0.0.0.0 www.narodninoviny.cz
 0.0.0.0 fresher.sk
@@ -255,6 +293,8 @@
 0.0.0.0 www.ceskozdrave.cz
 0.0.0.0 eportal.cz
 0.0.0.0 www.eportal.cz
+0.0.0.0 politickemimovladky.sk
+0.0.0.0 www.politickemimovladky.sk
 0.0.0.0 dolezite.sk
 0.0.0.0 www.dolezite.sk
 0.0.0.0 napalete.sk
@@ -267,8 +307,12 @@
 0.0.0.0 www.jenona.tiscali.cz
 0.0.0.0 zpravodaj24.eu
 0.0.0.0 www.zpravodaj24.eu
+0.0.0.0 netky.sk
+0.0.0.0 www.netky.sk
 0.0.0.0 woman.tiscali.cz
 0.0.0.0 www.woman.tiscali.cz
+0.0.0.0 hrot.info
+0.0.0.0 www.hrot.info
 0.0.0.0 ipribeh.cz
 0.0.0.0 www.ipribeh.cz
 0.0.0.0 slovakexportregister.eu
@@ -289,6 +333,8 @@
 0.0.0.0 www.stredoevropan.cz
 0.0.0.0 medicalcentrum.eu
 0.0.0.0 www.medicalcentrum.eu
+0.0.0.0 spravodaj.net
+0.0.0.0 www.spravodaj.net
 0.0.0.0 withform.cz
 0.0.0.0 www.withform.cz
 0.0.0.0 trendweb.sk
@@ -305,6 +351,8 @@
 0.0.0.0 www.parlamentne-volby-2016.sk
 0.0.0.0 farmazdravi.cz
 0.0.0.0 www.farmazdravi.cz
+0.0.0.0 presstv.sk
+0.0.0.0 www.presstv.sk
 0.0.0.0 zlapanda.cz
 0.0.0.0 www.zlapanda.cz
 0.0.0.0 eurodenik.cz
